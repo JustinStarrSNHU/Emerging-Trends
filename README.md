@@ -1,7 +1,15 @@
 # Emerging-Trends
 
-Project One located in M4 <br>
-Project Two located in M7
+Project One located in M4 Directory<br>
+Project Two located in M7 Directory<br><br>
+
+M1/ Short Paper<br>
+M2/ Identifying Hand-Written Digits<br>
+M3/ Identifying CIFAR-10 Images<br>
+M4/ Project One<br>
+M5/ Cartpole Problem and Project Two Milestone - Treasure Hunt<br>
+M6/ Cartpole Revisited<br>
+M7/ Project Two - Treasure Hunt/Maze Completed<br>
 
 ## What do computer scientists do and why does it matter?
 

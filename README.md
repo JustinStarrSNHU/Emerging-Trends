@@ -1,15 +1,30 @@
 # Emerging-Trends
 
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+# Hello, and welcome to the Emerging Trends in Computer Science Repository of my Academic Projects🖐️
+
+AI/Neural Networks – Learned how to build neural network models to solve advanced problems while analyzing the role of ethics in emerging trends.
+
+# 📖 Table of Contents
+
+
 Project One located in M4 Directory<br>
 Project Two located in M7 Directory<br><br>
 
-M1/ Short Paper<br>
-M2/ Identifying Hand-Written Digits<br>
-M3/ Identifying CIFAR-10 Images<br>
-M4/ Project One<br>
-M5/ Cartpole Problem and Project Two Milestone - Treasure Hunt<br>
-M6/ Cartpole Revisited<br>
-M7/ Project Two - Treasure Hunt/Maze Completed<br>
+> 📌 M1/ Short Paper 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Emerging-Trends/tree/main/M1)<br>
+📌 M2/ Identifying Hand-Written Digits 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Emerging-Trends/tree/main/M2)<br>
+📌 M3/ Identifying CIFAR-10 Images 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Emerging-Trends/tree/main/M3)<br>
+📌 M4/ Project One 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Emerging-Trends/tree/main/M4)<br>
+📌 M5/ Cartpole Problem and Project Two Milestone - Treasure Hunt 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Emerging-Trends/tree/main/M5)<br>
+📌 M6/ Cartpole Revisited 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Emerging-Trends/tree/main/M6)<br>
+📌 M7/ Project Two - Treasure Hunt/Maze Completed 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Emerging-Trends/tree/main/M7)<br>
 
 ## What do computer scientists do and why does it matter?
 
